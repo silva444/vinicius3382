@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá meu nome é vinicius 👋
 
 <!--
 **vinicius3382/vinicius3382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Atualmente estagio no setor de Desenvolvimento Web
+- 🌱 Estudando Laravel e Vue.js
+- 🎯 Estudabte de Computação
