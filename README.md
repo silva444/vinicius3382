@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente estagio no setor de Desenvolvimento Web
 - 🌱 Estudando Laravel e Vue.js
-- 🎯 Estudabte de Computação
+- 🎯 Estudante de Computação
